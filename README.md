@@ -1,4 +1,4 @@
-<img src="https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg">
+
 ### Olá, me chamo Ewelyn 👋 Seja bem vindo(a) ao meu GitHub!
 
 <div align="center">
