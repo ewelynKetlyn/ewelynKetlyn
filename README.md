@@ -11,6 +11,7 @@
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Rafa-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/919/919833.png">
 </div>
 
   ##
@@ -28,8 +29,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Aprendiz de desenvolvimento android
-- 💬 Aprendendo kotlin
+- 🔭 Estagiaria de desenvolvimento mobile (IOS/Android)
 - 😄 Pronomes: Ela/Dela
 - ⚡ Entusiasta da tecnologia
 -->
